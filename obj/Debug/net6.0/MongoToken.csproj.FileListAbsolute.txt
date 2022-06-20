@@ -1,0 +1,153 @@
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.csproj.AssemblyReference.cache
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.AssemblyInfoInputs.cache
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.AssemblyInfo.cs
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.csproj.CoreCompileInputs.cache
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\appsettings.json
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\MongoToken.exe
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\MongoToken.deps.json
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\MongoToken.runtimeconfig.json
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\MongoToken.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\ref\MongoToken.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\MongoToken.pdb
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\DnsClient.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\scopedcss\bundle\MongoToken.styles.css
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.csproj.CopyComplete
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.dll
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\ref\MongoToken.dll
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.pdb
+C:\Users\capsitech\Desktop\MongoToken\obj\Debug\net6.0\MongoToken.genruntimeconfig.cache
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\capsitech\Desktop\MongoToken\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\appsettings.json
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\MongoToken.exe
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\MongoToken.deps.json
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\MongoToken.runtimeconfig.json
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\MongoToken.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\ref\MongoToken.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\MongoToken.pdb
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\DnsClient.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.csproj.AssemblyReference.cache
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.AssemblyInfoInputs.cache
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.AssemblyInfo.cs
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.csproj.CoreCompileInputs.cache
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\scopedcss\bundle\MongoToken.styles.css
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.csproj.CopyComplete
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\ref\MongoToken.dll
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.pdb
+C:\Users\capsitech\Desktop\taruna panwar\other files\MongoToken\obj\Debug\net6.0\MongoToken.genruntimeconfig.cache
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\MongoToken.exe
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\MongoToken.deps.json
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\MongoToken.runtimeconfig.json
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\MongoToken.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\ref\MongoToken.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\MongoToken.pdb
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\DnsClient.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.csproj.AssemblyReference.cache
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.AssemblyInfoInputs.cache
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.AssemblyInfo.cs
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\scopedcss\bundle\MongoToken.styles.css
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.csproj.CopyComplete
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\ref\MongoToken.dll
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.pdb
+C:\Users\LENOVO PC-5\Desktop\mongotokenApi\MongoToken\obj\Debug\net6.0\MongoToken.genruntimeconfig.cache
